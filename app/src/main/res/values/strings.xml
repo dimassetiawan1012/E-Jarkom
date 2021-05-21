@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-Jarkom</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="materi_1">Materi 1</string>
+    <string name="materi_2">Materi 2</string>
+    <string name="materi_3">Materi 3</string>
+    <string name="materi_4">Materi 4</string>
+    <string name="kuis_1">Kuis 1</string>
+    <string name="kuis_2">Kuis 2</string>
+    <string name="kuis_3">Kuis 3</string>
+    <string name="kuis_4">Kuis 4</string>
+</resources>
