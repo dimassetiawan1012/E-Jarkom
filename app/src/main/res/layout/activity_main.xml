@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="414dp"
+        android:layout_height="785dp"
+        android:layout_x="-3dp"
+        android:layout_y="-46dp"
+        app:srcCompat="@drawable/utamajarkomui"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="-50dp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="376dp"
+        android:layout_height="80dp"
+        android:layout_x="12dp"
+        android:layout_y="401dp"
+        android:text="@string/button1"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="572dp" />
+
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="376dp"
+        android:layout_height="80dp"
+        android:layout_x="11dp"
+        android:layout_y="597dp"
+        android:text="@string/button3"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="375dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="376dp"
+        android:layout_height="80dp"
+        android:layout_x="13dp"
+        android:layout_y="496dp"
+        android:text="@string/button2"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="469dp" />
+
+
+</AbsoluteLayout>
